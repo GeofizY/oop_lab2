@@ -1,0 +1,14 @@
+G:\GitHub\OOP\Race\Race\bin\Debug\net7.0\Race.exe
+G:\GitHub\OOP\Race\Race\bin\Debug\net7.0\Race.deps.json
+G:\GitHub\OOP\Race\Race\bin\Debug\net7.0\Race.runtimeconfig.json
+G:\GitHub\OOP\Race\Race\bin\Debug\net7.0\Race.dll
+G:\GitHub\OOP\Race\Race\bin\Debug\net7.0\Race.pdb
+G:\GitHub\OOP\Race\Race\obj\Debug\net7.0\Race.GeneratedMSBuildEditorConfig.editorconfig
+G:\GitHub\OOP\Race\Race\obj\Debug\net7.0\Race.AssemblyInfoInputs.cache
+G:\GitHub\OOP\Race\Race\obj\Debug\net7.0\Race.AssemblyInfo.cs
+G:\GitHub\OOP\Race\Race\obj\Debug\net7.0\Race.csproj.CoreCompileInputs.cache
+G:\GitHub\OOP\Race\Race\obj\Debug\net7.0\Race.dll
+G:\GitHub\OOP\Race\Race\obj\Debug\net7.0\refint\Race.dll
+G:\GitHub\OOP\Race\Race\obj\Debug\net7.0\Race.pdb
+G:\GitHub\OOP\Race\Race\obj\Debug\net7.0\Race.genruntimeconfig.cache
+G:\GitHub\OOP\Race\Race\obj\Debug\net7.0\ref\Race.dll
